@@ -1,5 +1,8 @@
 ---
 title: "Recapping 2024"
+date: "14/11/2024"
+category: "Personal"
+readingTime: 2
 ---
 
 # Recapping 2024

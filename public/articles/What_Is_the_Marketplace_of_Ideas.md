@@ -1,5 +1,8 @@
 ---
-title: "Unintended Consequences of Ideas as Things for Science"
+title: "What Is the Marketplace of Ideas?"
+date: "06/02/2025"
+category: "Philosophy"
+readingTime: 9
 ---
 
 # Unintended Consequences of Ideas as Things for Science

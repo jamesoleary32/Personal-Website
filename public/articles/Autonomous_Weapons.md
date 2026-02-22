@@ -1,5 +1,8 @@
 ---
 title: "The weapons were always autonomous"
+date: "14/04/2025"
+category: "Technology"
+readingTime: 12
 ---
 
 # The weapons were always autonomous

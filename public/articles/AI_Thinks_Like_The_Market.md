@@ -1,5 +1,8 @@
 ---
 title: "Markets Think Like AI"
+date: "15/03/2025"
+category: "Philosophy"
+readingTime: 12
 ---
 
 # Markets Think Like AI 

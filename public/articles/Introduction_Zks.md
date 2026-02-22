@@ -1,5 +1,8 @@
 ---
-title: "An Introduction to Zero Knowledge"
+title: "An introduction to ZKs"
+date: "15/02/2024"
+category: "Computer-Science"
+readingTime: 12
 ---
 
 # An Introduction to Zero Knowledge  

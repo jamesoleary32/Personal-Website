@@ -1,5 +1,8 @@
 ---
-title: "How Gorbachev’s reforms collapsed the Soviet Union"
+title: "The Soviet Collapse"
+date: "01/04/2024"
+category: "Philosophy"
+readingTime: 5
 ---
 
 ## How Gorbachev’s reforms collapsed the Soviet Union 

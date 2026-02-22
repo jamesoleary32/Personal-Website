@@ -1,5 +1,8 @@
 ---
 title: "The Urbanisation of Virtual Worlds"
+date: "23/01/2024"
+category: "Footium"
+readingTime: 14
 ---
 
 # The Urbanisation of Virtual Worlds

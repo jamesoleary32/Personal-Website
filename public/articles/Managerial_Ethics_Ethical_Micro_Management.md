@@ -1,5 +1,8 @@
 ---
 title: "Managerial Ethics & Ethical Micro-Management"
+date: "15/05/2025"
+category: "Philosophy"
+readingTime: 4
 ---
 
 # Managerial Ethics & Ethical Micro-Management

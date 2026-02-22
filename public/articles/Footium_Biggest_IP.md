@@ -1,5 +1,8 @@
 ---
-title: "Footium: The Biggest IP"
+title: "Footium is the Biggest IP in Football"
+date: "03/03/2024"
+category: "Footium"
+readingTime: 3
 ---
 
 When I started Footium I posited the idea that Footium clubs or players shall go for as much as a real club or a real player, and the management of Footium clubs as a basis on which to judge real world clubs. The implication of that being true is that Footium as a world would have a similar type of existence to real world football.

@@ -1,7 +1,9 @@
 ---
-title: "Who Set the Prices?"
+title: "Who set the prices? Who. Who."
+date: "10/05/2025"
+category: "Economics"
+readingTime: 7
 ---
-
 
 # Introduction 
 In 2000 the British government auctioned off 3G telecom licences. This sale produced over £22 billion in revenue, over 2% of British GDP at the time. Called The Biggest Auction Ever, amongst economists it was heralded as a great success for the discipline. 

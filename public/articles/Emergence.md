@@ -1,7 +1,9 @@
 ---
-title: "The Definitive Introduction to  Emergence"
+title: "The Definitive Introduction to Emergence"
+date: "07/02/2024"
+category: "Philosophy"
+readingTime: 7
 ---
-
 
 # The Definitive Introduction to  Emergence
 

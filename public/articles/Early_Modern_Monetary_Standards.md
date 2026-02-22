@@ -1,7 +1,9 @@
 ---
 title: "The Evolution of Monetary Standards in the Early Modern Period"
+date: "26/04/2022"
+category: "Economics"
+readingTime: 24
 ---
-
 
 ## The Evolution of Monetary Standards in the Early Modern Period
 

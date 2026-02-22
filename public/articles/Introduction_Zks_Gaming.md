@@ -1,5 +1,8 @@
 ---
-title: "Applying Zero Knowledge to Gaming"
+title: "Applying ZK to Gaming"
+date: "21/02/2024"
+category: "Computer-Science"
+readingTime: 5
 ---
 
 # Applying Zero Knowledge to Gaming 
