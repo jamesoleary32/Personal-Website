@@ -6,6 +6,51 @@
     <title>Content Manager</title>
   </head>
   <body>
+    <script>window.CMS_MANUAL_INIT = true</script>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      CMS.init({
+        config: {
+          backend: {
+            name: 'github',
+            repo: 'chefaraga123/Personal-Website',
+            branch: 'main',
+            auth_type: 'pkce',
+            app_id: 'Ov23lio92vTjXbfrtTcR'
+          },
+          media_folder: 'public/images',
+          public_folder: '/images',
+          collections: [
+            {
+              name: 'articles',
+              label: 'Articles',
+              folder: 'public/articles',
+              create: true,
+              extension: 'md',
+              slug: '{{slug}}',
+              fields: [
+                { label: 'Title', name: 'title', widget: 'string' },
+                {
+                  label: 'Date',
+                  name: 'date',
+                  widget: 'datetime',
+                  format: 'DD/MM/YYYY',
+                  date_format: 'DD/MM/YYYY',
+                  time_format: false
+                },
+                {
+                  label: 'Category',
+                  name: 'category',
+                  widget: 'select',
+                  options: ['Philosophy', 'Computer-Science', 'Economics', 'Technology', 'Footium', 'Personal']
+                },
+                { label: 'Reading Time (min)', name: 'readingTime', widget: 'number', value_type: 'int' },
+                { label: 'Body', name: 'body', widget: 'markdown' }
+              ]
+            }
+          ]
+        }
+      });
+    </script>
   </body>
 </html>
