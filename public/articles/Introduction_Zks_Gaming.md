@@ -1,6 +1,6 @@
 ---
 title: "Applying ZK to Gaming"
-date: "21/02/2024"
+date: "2024-02-21"
 category: "Computer-Science"
 readingTime: 5
 ---

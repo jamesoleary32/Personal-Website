@@ -1,6 +1,6 @@
 ---
 title: "Crypto gaming: An Incremental Innovation"
-date: "28/04/2022"
+date: "2022-04-28"
 category: "Technology"
 readingTime: 15
 ---

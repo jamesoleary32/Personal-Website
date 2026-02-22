@@ -1,6 +1,6 @@
 ---
 title: "The Urbanisation of Virtual Worlds"
-date: "23/01/2024"
+date: "2024-01-23"
 category: "Footium"
 readingTime: 14
 ---

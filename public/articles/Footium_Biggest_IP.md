@@ -1,6 +1,6 @@
 ---
 title: "Footium is the Biggest IP in Football"
-date: "03/03/2024"
+date: "2024-03-03"
 category: "Footium"
 readingTime: 3
 ---

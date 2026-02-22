@@ -1,6 +1,6 @@
 ---
 title: "Who set the prices? Who. Who."
-date: "10/05/2025"
+date: "2025-05-10"
 category: "Economics"
 readingTime: 7
 ---

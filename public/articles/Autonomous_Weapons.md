@@ -1,6 +1,6 @@
 ---
 title: "The weapons were always autonomous"
-date: "14/04/2025"
+date: "2025-04-14"
 category: "Technology"
 readingTime: 12
 ---

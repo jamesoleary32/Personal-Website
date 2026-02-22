@@ -1,6 +1,6 @@
 ---
 title: "An introduction to ZKs"
-date: "15/02/2024"
+date: "2024-02-15"
 category: "Computer-Science"
 readingTime: 12
 ---

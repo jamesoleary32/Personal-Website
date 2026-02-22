@@ -1,6 +1,6 @@
 ---
 title: "The Soviet Collapse"
-date: "01/04/2024"
+date: "2024-04-01"
 category: "Philosophy"
 readingTime: 5
 ---

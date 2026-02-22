@@ -1,6 +1,6 @@
 ---
 title: "What Is the Marketplace of Ideas?"
-date: "06/02/2025"
+date: "2025-02-06"
 category: "Philosophy"
 readingTime: 9
 ---
