@@ -20,9 +20,9 @@ Applied information economics purports to solve social problems in line with mar
 
 # Coase Theorem & Market Design
 
-Coase Theorem emerged as a counterargument to the prevailing mid-20th century view that government regulation was the predominant approach to resolving externalities - externalities referring to the indirect costs of an activity imposed on third-parties, such as pollution generated in manufacturing or noise.
+Coase Theorem emerged as a counterargument to the prevailing view that government regulation was the predominant approach to resolving externalities - externalities referring to the indirect costs of an activity imposed on third-parties, such as pollution generated in manufacturing or noise.
 
-Government regulation, through taxation or the regulation of particular activities can reduce the amount in which these activities occur, however the designation of the right amount of pollution is left to the state which with its absence of perfect information is inexorably going to fail. 
+Government regulation, through taxation or the regulation of particular activities can reduce the amount which these activities occur, however the designation of the right amount of pollution is left to the state which with its absence of perfect information is inexorably going to fail. 
 
 Coase paper, The Problem of Social Cost, reframed externalities from being mere undesirables towards a resource conflict.
 
