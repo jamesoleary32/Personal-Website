@@ -1,3 +1,7 @@
+---
+title: "The Evolution of Monetary Standards in the Early Modern Period"
+---
+
 
 ## The Evolution of Monetary Standards in the Early Modern Period
 

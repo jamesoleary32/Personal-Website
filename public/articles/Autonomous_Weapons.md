@@ -1,3 +1,7 @@
+---
+title: "The weapons were always autonomous"
+---
+
 # The weapons were always autonomous
 
 ## Introduction

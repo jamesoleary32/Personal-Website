@@ -1,3 +1,7 @@
+---
+title: "The Urbanisation of Virtual Worlds"
+---
+
 # The Urbanisation of Virtual Worlds
 
 ## Introduction

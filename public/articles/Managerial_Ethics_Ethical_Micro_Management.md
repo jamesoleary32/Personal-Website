@@ -1,3 +1,7 @@
+---
+title: "Managerial Ethics & Ethical Micro-Management"
+---
+
 # Managerial Ethics & Ethical Micro-Management
 ## Introduction
 Organisation of human affairs seems to follow a consistent pattern in different domains

@@ -1,3 +1,7 @@
+---
+title: "Markets Think Like AI"
+---
+
 # Markets Think Like AI 
 
 

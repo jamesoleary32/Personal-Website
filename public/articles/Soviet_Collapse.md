@@ -1,3 +1,7 @@
+---
+title: "How Gorbachev’s reforms collapsed the Soviet Union"
+---
+
 ## How Gorbachev’s reforms collapsed the Soviet Union 
 
 ### Introduction 

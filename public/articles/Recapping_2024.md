@@ -1,3 +1,7 @@
+---
+title: "Recapping 2024"
+---
+
 # Recapping 2024
 
 ## January

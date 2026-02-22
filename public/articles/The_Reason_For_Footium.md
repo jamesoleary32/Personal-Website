@@ -1,3 +1,7 @@
+---
+title: "Why Footium"
+---
+
 # Why Footium
 Why of all the things I could spend my time on, am I high conviction in Footium specifically. I am doing this in the style of Roelof Botha's internal memo motivating the Sequoia investment into Youtube. 
 

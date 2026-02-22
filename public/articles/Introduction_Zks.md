@@ -1,3 +1,7 @@
+---
+title: "An Introduction to Zero Knowledge"
+---
+
 # An Introduction to Zero Knowledge  
 My article is laid out in a few  sections 
 - Introduction to ZK

@@ -1,3 +1,7 @@
+---
+title: "Footium: The Biggest IP"
+---
+
 When I started Footium I posited the idea that Footium clubs or players shall go for as much as a real club or a real player, and the management of Footium clubs as a basis on which to judge real world clubs. The implication of that being true is that Footium as a world would have a similar type of existence to real world football.
 
 Given some awareness of the Autonomous Worlds meme that has developed over the last couple years. The thesis is that blockchains are the best substrate for world building. Blockchain state unambiguously holds the world’s history, and the state transition function is the world’s ruleset for what can become true. The essential point being that a blockchain as a container has a similar ontological interpretation to the real world.

@@ -1,3 +1,7 @@
+---
+title: "The Definitive Introduction to  Emergence"
+---
+
 
 # The Definitive Introduction to  Emergence
 

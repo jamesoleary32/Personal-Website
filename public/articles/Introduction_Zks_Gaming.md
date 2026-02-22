@@ -1,3 +1,7 @@
+---
+title: "Applying Zero Knowledge to Gaming"
+---
+
 # Applying Zero Knowledge to Gaming 
 My article is laid out in three sections 
 1) **What ZKs are**: specifically laying out what is meant by zero-knowledge

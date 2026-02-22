@@ -1,3 +1,7 @@
+---
+title: "Unintended Consequences of Ideas as Things for Science"
+---
+
 # Unintended Consequences of Ideas as Things for Science
 
 ## Science and the Market
