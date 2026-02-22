@@ -3,7 +3,7 @@
       "id": "section15",
       "title": "The Evolution of Monetary Standards in the Early Modern Period",
       "date": "26/04/2022",
-      "url": "/Early_Modern_Monetary_Standards",
+      "url": "/articles/Early_Modern_Monetary_Standards",
       "markdownUrl": "/articles/Early_Modern_Monetary_Standards.md",
       "category": "Economics",
       "readingTime": 24
@@ -12,7 +12,7 @@
       "id": "section16",
       "title": "Crypto gaming: An Incremental Innovation",
       "date": "28/04/2022",
-      "url": "/Crypto_Gaming_Thoughts",
+      "url": "/articles/Crypto_Gaming_Thoughts",
       "markdownUrl": "/articles/Crypto_Gaming_Thoughts.md",
       "category": "Technology",
       "readingTime": 15
@@ -21,7 +21,7 @@
       "id": "section2",
       "title": "The Urbanisation of Virtual Worlds",
       "date": "23/01/2024",
-      "url": "/Urbanisation-Virtual-Worlds",
+      "url": "/articles/Urbanisation_Of_Virtual_worlds",
       "markdownUrl": "/articles/Urbanisation_Of_Virtual_worlds.md",
       "category": "Footium",
       "readingTime": 14
@@ -30,7 +30,7 @@
       "id": "section1",
       "title": "The Definitive Introduction to Emergence",
       "date": "07/02/2024",
-      "url": "/Emergence",
+      "url": "/articles/Emergence",
       "markdownUrl": "/articles/Emergence.md",
       "category": "Philosophy",
       "readingTime": 7
@@ -39,7 +39,7 @@
       "id": "section3",
       "title": "An introduction to ZKs",
       "date": "15/02/2024",
-      "url": "/introduction-zks",
+      "url": "/articles/Introduction_Zks",
       "markdownUrl": "/articles/Introduction_Zks.md",
       "category": "Computer-Science",
       "readingTime": 12
@@ -48,16 +48,34 @@
       "id": "section4",
       "title": "Applying ZK to Gaming",
       "date": "21/02/2024",
-      "url": "/introduction-zks-gaming",
+      "url": "/articles/Introduction_Zks_Gaming",
       "markdownUrl": "/articles/Introduction_Zks_Gaming.md",
       "category": "Computer-Science",
+      "readingTime": 5
+    },
+    {
+      "id": "section5",
+      "title": "Non-Custodial Accounts",
+      "date": "01/03/2024",
+      "url": "/articles/Non_Custodial_Accounts",
+      "markdownUrl": "/articles/Non_Custodial_Accounts.md",
+      "category": "Computer-Science",
+      "readingTime": 5
+    },
+    {
+      "id": "section6",
+      "title": "The Soviet Collapse",
+      "date": "01/04/2024",
+      "url": "/articles/Soviet_Collapse",
+      "markdownUrl": "/articles/Soviet_Collapse.md",
+      "category": "Philosophy",
       "readingTime": 5
     },
     {
       "id": "section7",
       "title": "Recapping 2024",
       "date": "14/11/2024",
-      "url": "/Recapping-2024",
+      "url": "/articles/Recapping_2024",
       "markdownUrl": "/articles/Recapping_2024.md",
       "category": "Personal",
       "readingTime": 2
@@ -66,7 +84,7 @@
       "id": "section8",
       "title": "Footium is the Biggest IP in Football",
       "date": "03/03/2024",
-      "url": "/Footium-Biggest-IP",
+      "url": "/articles/Footium_Biggest_IP",
       "markdownUrl": "/articles/Footium_Biggest_IP.md",
       "category": "Footium",
       "readingTime": 3
@@ -75,7 +93,7 @@
       "id": "section9",
       "title": "What Is the Marketplace of Ideas?",
       "date": "06/02/2025",
-      "url": "/Marketplace-of-Ideas",
+      "url": "/articles/What_Is_the_Marketplace_of_Ideas",
       "markdownUrl": "/articles/What_Is_the_Marketplace_of_Ideas.md",
       "category": "Philosophy",
       "readingTime": 9
@@ -84,7 +102,7 @@
       "id": "section10",
       "title": "Markets Think Like AI",
       "date": "15/03/2025",
-      "url": "/AI_Thinks_Like_The_Market",
+      "url": "/articles/AI_Thinks_Like_The_Market",
       "markdownUrl": "/articles/AI_Thinks_Like_The_Market.md",
       "category": "Philosophy",
       "readingTime": 12
@@ -93,7 +111,7 @@
       "id": "section11",
       "title": "The weapons were always autonomous",
       "date": "14/04/2025",
-      "url": "/Autonomous_Weapons",
+      "url": "/articles/Autonomous_Weapons",
       "markdownUrl": "/articles/Autonomous_Weapons.md",
       "category": "Technology",
       "readingTime": 12
@@ -102,7 +120,7 @@
       "id": "section12",
       "title": "Who set the prices? Who. Who.",
       "date": "10/05/2025",
-      "url": "/Who_set_the_prices_Who_Who",
+      "url": "/articles/Who_set_the_prices_Who_Who",
       "markdownUrl": "/articles/Who_set_the_prices_Who_Who.md",
       "category": "Economics",
       "readingTime": 7
@@ -111,7 +129,7 @@
       "id": "section13",
       "title": "Managerial Ethics & Ethical Micro-Management",
       "date": "15/05/2025",
-      "url": "/Managerial-Ethics",
+      "url": "/articles/Managerial_Ethics_Ethical_Micro_Management",
       "markdownUrl": "/articles/Managerial_Ethics_Ethical_Micro_Management.md",
       "category": "Philosophy",
       "readingTime": 4

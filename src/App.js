@@ -15,22 +15,7 @@ import Languages from './pages/Languages/Languages';
 import Projects from './pages/Projects/Projects';
 
 /*Pages: Articles */
-import Emergence from './pages/Writing/Articles/Emergence';
-import Urbanisation from './pages/Writing/Articles/Urbanisation_Virtual_Worlds';
-import ZkGaming from './pages/Writing/Articles/Zks_Gaming';
-import ZKIntroduction from './pages/Writing/Articles/ZKs_Introduction';
-import Non_Custodial_Accounts from './pages/Writing/Articles/Non__Custodial_Accounts';
-import Recapping_2024 from './pages/Writing/Articles/Recapping_2024';
-import Footium_Biggest_IP from './pages/Writing/Articles/Footium_Biggest_IP';
-import Marketplace_of_Ideas from './pages/Writing/Articles/Marketplace_of_Ideas';
-import Soviet_Collapse from './pages/Writing/Articles/Soviet_Collapse';
-import AI_Thinks_Like_The_Market from './pages/Writing/Articles/AI_Thinks_Like_The_Market';
-import Autonomous_Weapons from './pages/Writing/Articles/Autonomous_Weapons';
-import WhoSetThePrices from './pages/Writing/Articles/Who_set_the_prices_Who_Who';
-import Managerial_Ethics from './pages/Writing/Articles/Managerial_Ethics_Ethical_Micro_Management';
-import MDXExample from './pages/Writing/Articles/MDX_Example';
-import Early_Modern_Monetary_Standards from './pages/Writing/Articles/Early_Modern_Monetary_Standards';
-import Crypto_Gaming_Thoughts from './pages/Writing/Articles/Crypto_Gaming_Thoughts';
+import ArticlePage from './pages/Writing/Articles/ArticlePage';
 /*Pages: Book Summaries */
 import BookSummary from './pages/Books/Book_Summaries/BookSummary';
 
@@ -57,22 +42,7 @@ const App = () => {
           <Route path="/languages" element={<Languages />} />
 
           
-          <Route path="/Emergence" element={<Emergence />} />
-          <Route path="/Urbanisation-Virtual-Worlds" element={<Urbanisation />} />
-          <Route path="/introduction-zks-gaming" element={<ZkGaming />} />
-          <Route path="/introduction-zks" element={<ZKIntroduction />} />
-          <Route path="/Non-custodial-account" element={<Non_Custodial_Accounts />} />
-          <Route path="/Recapping-2024" element={<Recapping_2024 />} />
-          <Route path="/Footium-Biggest-IP" element={<Footium_Biggest_IP />} />
-          <Route path="/Marketplace-of-Ideas" element={<Marketplace_of_Ideas />} />
-          <Route path="/Soviet_Collapse" element={<Soviet_Collapse />} />
-          <Route path="/AI_Thinks_Like_The_Market" element={<AI_Thinks_Like_The_Market />} />
-          <Route path="/Autonomous_Weapons" element={<Autonomous_Weapons />} />
-          <Route path="/Who_set_the_prices_Who_Who" element={<WhoSetThePrices />} />
-          <Route path="/Managerial-Ethics" element={<Managerial_Ethics />} />
-          <Route path="/MDX-Example" element={<MDXExample />} />
-          <Route path="/Early_Modern_Monetary_Standards" element={<Early_Modern_Monetary_Standards />} />
-          <Route path="/Crypto_Gaming_Thoughts" element={<Crypto_Gaming_Thoughts />} />
+          <Route path="/articles/:slug" element={<ArticlePage />} />
 
           <Route path="/books" element={<Books />} />
           <Route path="/Books" element={<Books />} />
