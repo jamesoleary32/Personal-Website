@@ -3,10 +3,17 @@ title: Who set the prices? Who. Who.
 date: 2025-05-10
 category: Economics
 readingTime: 7
+notes: "testing "
 ---
 # Introduction
 
 In 2000 the British government auctioned off 3G telecom licences. This sale produced over £22 billion in revenue, over 2% of British GDP at the time. The Biggest Auction Ever. Economists heralded it as a great success for the discipline. 
+
+\---
+
+s
+
+\---
 
 This auction didn't follow a typical English or Dutch Auction format. It was engineered for purpose. It was the Simultaneous Multiple Round Ascending Auction. Taking into account the incentives of this particular group of bidders, telecoms companies, and the government's longer-term social welfare objectives.
 
@@ -15,8 +22,6 @@ Whilst not representing the entire discipline of auction theory, mechanism desig
 A story of modern economics is story is the metamorphosis of the economist from dismal scientist to heralded social engineer. Although there are various minor-disciplines I'll refer to them as information economics. 
 
 Applied information economics purports to solve social problems in line with market-principles. Through a more abstract lens they can be understood as isomorphic to the command economy. In a command economy planners dictate what should be produced and who should get it. An intellectual battle of the early 20th century between utopian socialist economists and laissez-faire liberals was *the Socialist Calculation Controversy,* hinging around the question of whether a command economy efficiently allocate resources without prices. This question was indispensably epistemic as it got to the heart of what the presence of market prices, and the lack thereof, meant for the efficient allocation of resources. If the existence of price signals is indispensable for the efficient allocation of resources then government economists are interested in the solubility of prices to central treatment. 
-
-
 
 # Coase Theorem & Market Design
 
