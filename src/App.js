@@ -21,6 +21,7 @@ import BookSummary from './pages/Books/Book_Summaries/BookSummary';
 
 /*Components*/
 import NotePage from './pages/NotePage/NotePage';
+import Footer from './components/Footer/Footer';
 
 const App = () => {
   return (
@@ -56,6 +57,7 @@ const App = () => {
           <Route path="/notes/:noteName" element={<NotePage />} />
         </Routes>
       </Router>
+      <Footer />
     </div>
   );
 };
