@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkFrontmatter from 'remark-frontmatter';
 
 const MarkdownComponent = ({ filePath }) => {
     const [content, setContent] = useState('');
@@ -29,7 +30,7 @@ const MarkdownComponent = ({ filePath }) => {
 
     return (
         <div>
-            <ReactMarkdown>{content}</ReactMarkdown>
+            <ReactMarkdown remarkPlugins={[remarkFrontmatter]}>{content}</ReactMarkdown>
         </div>
     );
 };
