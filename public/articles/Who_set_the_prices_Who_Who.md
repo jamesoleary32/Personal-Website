@@ -9,12 +9,6 @@ notes: "testing "
 
 In 2000 the British government auctioned off 3G telecom licences. This sale produced over £22 billion in revenue, over 2% of British GDP at the time. The Biggest Auction Ever. Economists heralded it as a great success for the discipline. 
 
-\---
-
-s
-
-\---
-
 This auction didn't follow a typical English or Dutch Auction format. It was engineered for purpose. It was the Simultaneous Multiple Round Ascending Auction. Taking into account the incentives of this particular group of bidders, telecoms companies, and the government's longer-term social welfare objectives.
 
 Whilst not representing the entire discipline of auction theory, mechanism design or any of a number of names, it's the most high profile example of the use of synthetic markets for a particular end. Synthetic markets are deliberately constructed by policy makers for a specific purpose - in (perhaps superficial!) contrast to the reified market signified when one generically refers to ‘the market’. 
