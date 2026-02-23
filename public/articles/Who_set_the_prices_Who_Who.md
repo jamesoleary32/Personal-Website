@@ -49,7 +49,7 @@ At the limit, the most efficient outcomes can only be achieved by dissolving eve
 
 # Market designers aren’t God
 
-If the in the practical/real world an auction is designed by a policy maker to maximise revenues to the treasury without taking into account of the second, third order effects - then this is similar to an arrangement in which an economic planner wants to produce a number of shoes but forgets to specify that shoes be produced a) in pairs, and b) a range of sizes. 
+If the in the real world an auction is designed by a policy maker to maximise treasury revenues without taking into account the second, third order effects - then this is similar to an arrangement in which an economic planner wants to produce a number of shoes but forgets to specify that shoes be produced a) in pairs, and b) a range of sizes. 
 There is an objective: manufacturer 10,000 shoes 
 
 Old dynamic i’ve previously discussed about how you can micro-manage the input or the output. Something needs to be left as a free-variable. The controlled variable is either the input or the output: if you control for a particular output you can’t micro-manage the workers, if you micro-manage the works you can’t control for a particular output. 
