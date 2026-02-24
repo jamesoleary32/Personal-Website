@@ -39,6 +39,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "sync-books": "node scripts/sync-book-summaries.js",
+    "prebuild": "node scripts/sync-book-summaries.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -64,7 +66,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "gray-matter": "^4.0.3"
   },
   "overrides": {
     "react-force-graph": "1.44.1"
