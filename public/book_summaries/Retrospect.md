@@ -1,3 +1,13 @@
+---
+title: "In Retrospect"
+author: "Robert S. McNamara"
+genre:
+  - Biography
+  - History
+  - Warfare
+  - Politics
+image: /images/Retrospect_Cover.jpg
+---
 # Notes from *In Retrospect* by Robert S. McNamara
 
 ---

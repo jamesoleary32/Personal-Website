@@ -1,3 +1,11 @@
+---
+title: "A New Philosophy of Society"
+author: "Manuel DeLanda"
+genre:
+  - Philosophy
+  - Sociology
+image: /images/A_New_Philosophy_of_Society_Cover.jpg
+---
 # Notes from *A New Philosophy of Society* by Manuel DeLanda
 
 ---

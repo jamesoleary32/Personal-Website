@@ -1,3 +1,12 @@
+---
+title: "Intensive Science and Virtual Philosophy"
+author: "Manuel DeLanda"
+genre:
+  - Philosophy
+  - Physics
+  - Mathematics
+image: /images/Intensive_Science_Virtual_Philosophy_Cover.jpg
+---
 ## Note
 I have read this book very slowly, over a very long period of time, as each page takes me a while to internalise and intuit. I still haven't finished it! but i'll add to this over the coming weeks hopefully. 
 

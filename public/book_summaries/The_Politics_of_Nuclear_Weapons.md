@@ -1,3 +1,12 @@
+---
+title: "The Politics of Nuclear Weapons"
+author: "Akinobu Kuroda"
+genre:
+  - History
+  - Politics
+  - Warfare
+image: /images/The_Politics_of_Nuclear_Weapons_Cover.jpg
+---
 # Notes from *The Politics of Nuclear Weapons*
 
 ---

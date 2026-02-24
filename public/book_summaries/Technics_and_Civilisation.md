@@ -1,3 +1,12 @@
+---
+title: "Technics and Civilisation"
+author: "Lewis Mumford"
+genre:
+  - History
+  - Technology
+  - Philosophy
+image: /images/Technics_and_Civilisation_Cover.jpg
+---
 # Notes from *Technics and Civilization* by Lewis Mumford
 
 ---

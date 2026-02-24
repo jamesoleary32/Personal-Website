@@ -1,3 +1,10 @@
+---
+title: "Machine Dreams"
+author: "Philip Mirowski"
+genre:
+  - Philosophy
+image: /images/Machine_Dreams_Cover.jpg
+---
 # Notes from *Machine Dreams: Economics as a Cyborg Science*
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "The Challenge Launch Decision"
+author: "Diane Vaughan"
+genre:
+  - History
+  - Management
+image: /images/The_Challenge_Launch_Decision_Cover.jpg
+---
 # Notes from *The Challenge Launch Decision* by Diane Vaughan
 
 ---

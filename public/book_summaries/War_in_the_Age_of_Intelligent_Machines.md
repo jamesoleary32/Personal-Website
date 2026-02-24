@@ -1,3 +1,11 @@
+---
+title: "War in the Age of Intelligent Machines"
+author: "Manuel DeLanda"
+genre:
+  - History
+  - Warfare
+image: /images/War_in_the_Age_of_Intelligent_Machines_Cover.jpg
+---
 # Notes from *War in the Age of Intelligent Machines*
 
 - **[Emergent Phenomena](../notes/emergent_phenomena)**

@@ -1,3 +1,12 @@
+---
+title: "Legal Systems Very Different From Ours"
+author: "David Friedman"
+genre:
+  - Law
+  - Sociology
+  - Economics
+image: /images/Legal_Systems_Very_Different_From_Ours_Cover.jpg
+---
 # Notes from *Legal Systems Very Different from Ours*
 
 ---

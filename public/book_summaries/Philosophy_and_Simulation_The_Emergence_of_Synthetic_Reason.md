@@ -1,3 +1,12 @@
+---
+title: "Philosophy and Simulation: The Emergence of Synthetic Reason"
+author: "Manuel DeLanda"
+genre:
+  - Philosophy
+  - Sociology
+  - Physics
+image: /images/Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason_Cover.jpg
+---
 Mechanism-independence:
 The idea is that the properties of a complex system are not solely determined by the behaviour of its underlying components(mechanisms) the system has irreducible properties. DeLanda challenges the idea of complex systems as simply the behaviour of their individual parts
 

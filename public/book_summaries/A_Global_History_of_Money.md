@@ -1,3 +1,11 @@
+---
+title: "A Global History of Money"
+author: "Akinobu Kuroda"
+genre:
+  - History
+  - Economics
+image: /images/A_Global_History_of_Money_Cover.jpg
+---
 Is there any differences between monetary usages of peasants vs other merchants?
 
 The size of individual transactions is necessarily small 

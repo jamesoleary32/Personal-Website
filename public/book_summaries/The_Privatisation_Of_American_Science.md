@@ -1,3 +1,13 @@
+---
+title: "Science-Mart: Privatising American Science"
+author: "Philip Mirowski"
+genre:
+  - Economics
+  - History
+  - Philosophy
+  - Politics
+image: /images/Science_Mart_Cover.jpg
+---
 # Notes from *The Privatisation of American Science*
 
 ## Key Themes

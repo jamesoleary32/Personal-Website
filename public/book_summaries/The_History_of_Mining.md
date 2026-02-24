@@ -1,3 +1,11 @@
+---
+title: "The History of Mining"
+author: "Michael Coulson"
+genre:
+  - History
+  - Geology
+image: /images/The_History_of_Mining_Cover.jpg
+---
 # Notes from *The History of Mining*
 
 ---

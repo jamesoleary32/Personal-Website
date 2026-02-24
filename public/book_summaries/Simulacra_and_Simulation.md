@@ -1,3 +1,10 @@
+---
+title: "Simulacra and Simulation"
+author: "Jean Baudrillard"
+genre:
+  - Philosophy
+image: /images/Simulacra_and_Simulation_Cover.jpg
+---
 Simulacra and Simulation
 Definitions:
 Simulation

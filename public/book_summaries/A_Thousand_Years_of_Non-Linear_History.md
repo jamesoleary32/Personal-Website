@@ -1,3 +1,12 @@
+---
+title: "A Thousand Years of Non-Linear History"
+author: "Manuel DeLanda"
+genre:
+  - Philosophy
+  - Sociology
+  - History
+image: /images/A_Thousand_Years_of_Non-Linear_History_Cover.jpg
+---
 # Notes from *A Thousand Years of Non-Linear History*
 
 ---

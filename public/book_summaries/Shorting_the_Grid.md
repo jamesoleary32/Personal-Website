@@ -1,3 +1,11 @@
+---
+title: "Shorting the Grid"
+author: "Meredith Angwin"
+genre:
+  - Politics
+  - Technology
+image: /images/Shorting_the_Grid_Cover.jpg
+---
 How the grid works
 Electricity produced = electricity used at all times 
 Electricity is made and used simultaneously 

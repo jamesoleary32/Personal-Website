@@ -1,3 +1,11 @@
+---
+title: "Systems Theory"
+author: "Niklas Luhmann"
+genre:
+  - Sociology
+  - Philosophy
+image: /images/Systems_Theory_Cover.jpg
+---
 # Notes from *An Introduction to Systems Theory* by Niklas Luhmann
 
 ---

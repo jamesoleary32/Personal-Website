@@ -1,3 +1,13 @@
+---
+title: "The knowledge we have lost in information"
+author: "Philip Mirowski"
+genre:
+  - Economics
+  - History
+  - Philosophy
+  - Politics
+image: /images/The_Knowledge_We_Have_Lost_in_Information_Cover.jpg
+---
 # Notes from *The Knowledge We Have Lost in Information*
 
 ---

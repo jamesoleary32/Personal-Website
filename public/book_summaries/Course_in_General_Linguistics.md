@@ -1,3 +1,11 @@
+---
+title: "Course in General Linguists"
+author: "Ferdinand de Saussure"
+genre:
+  - Psychology
+  - Linguistics
+image: /images/Course_in_General_Linguists_Cover.jpg
+---
 Ferdinand de Saussure
 
 Chapter: Introduction

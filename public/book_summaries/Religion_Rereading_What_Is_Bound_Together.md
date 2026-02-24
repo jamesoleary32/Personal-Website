@@ -1,3 +1,11 @@
+---
+title: "Religion: Rereading What Is Bound Together"
+author: "Michel Serres"
+genre:
+  - Philosophy
+  - Mathematics
+image: /images/Religion_Rereading_What_Is_Bound_Together_Cover.jpg
+---
 
 # Chapter 1: Vertical Binding 
 

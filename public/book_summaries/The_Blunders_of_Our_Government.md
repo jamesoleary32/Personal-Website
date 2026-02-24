@@ -1,3 +1,11 @@
+---
+title: "The Blunders of Our Government"
+author: "Ivor Crewe"
+genre:
+  - Politics
+  - History
+image: /images/The_Blunders_of_Our_Government_Cover.jpg
+---
 # Poll Tax
 
 - A replacement of "rates," now replaced by "council tax."

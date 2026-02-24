@@ -1,3 +1,11 @@
+---
+title: "The Collapse of Complex Societies "
+author: "Joseph Tainter"
+genre:
+  - History
+  - Economics
+image: /images/The_Collapse_of_Complex_Societies_Cover.jpg
+---
 # The Objective
 The objective of this work is to develop a general explanation of collapse, applicable within a variety of contexts and with implications for current conditions. This is a work of archaeology and history and of social theory.
 

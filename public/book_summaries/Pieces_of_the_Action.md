@@ -1,3 +1,14 @@
+---
+title: "Pieces of the Action"
+author: "Vannevar Bush"
+genre:
+  - Autobiography
+  - History
+  - Warfare
+  - Politics
+  - Management
+image: /images/Pieces_of_the_Action_Cover.jpg
+---
 # Notes from *Pieces of the Action* by Vannevar Bush
 
 ---

@@ -1,3 +1,10 @@
+---
+title: "Decline of the West"
+author: "Oswald Spengler"
+genre:
+  - History
+image: /images/Decline_of_the_West_Cover.jpg
+---
 # Notes from *The Decline of the West* by Oswald Spengler
 
 ---

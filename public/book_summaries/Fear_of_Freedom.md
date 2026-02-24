@@ -1,3 +1,12 @@
+---
+title: "Fear of Freedom"
+author: "Erich Fromm"
+genre:
+  - Politics
+  - Sociology
+  - Psychology
+image: /images/Fear_of_Freedom_Cover.jpg
+---
 # Notes from *Fear of Freedom* by Erich Fromm
 
 ---

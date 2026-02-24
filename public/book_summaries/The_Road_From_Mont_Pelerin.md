@@ -1,3 +1,13 @@
+---
+title: "The Road from Mont Pelerin"
+author: "Philip Mirowski"
+genre:
+  - Economics
+  - History
+  - Philosophy
+  - Politics
+image: /images/The_Road_from_Mont_Pelerin_Cover.jpg
+---
 # Notes from *The Road from Mont Pelerin*
 
 ---
