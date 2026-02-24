@@ -1,4 +1,4 @@
-[
+{"books": [
   {
     "title": "The Years of Lyndon Johnson: Master of the Senate",
     "author": "Robert A. Caro",
@@ -1070,4 +1070,4 @@
     ],
     "image": "/images/Placeholder_Book_Cover.svg"
   }
-]
+]}

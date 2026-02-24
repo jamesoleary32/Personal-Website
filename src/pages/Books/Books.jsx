@@ -30,10 +30,10 @@ const Books = () => {
     };
 
     useEffect(() => {
-        setBooks(BookData);
-        setFilteredBooks(BookData);
+        setBooks(BookData.books);
+        setFilteredBooks(BookData.books);
 
-        const booksWithSummaries = BookData.filter(book => book.summaryLink);
+        const booksWithSummaries = BookData.books.filter(book => book.summaryLink);
         setBookOfTheDay(getBookOfTheDay(booksWithSummaries));
     }, []);
 

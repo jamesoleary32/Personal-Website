@@ -51,6 +51,39 @@
               ]
             },
             {
+              name: 'book_list',
+              label: 'Book List',
+              files: [
+                {
+                  name: 'book_data',
+                  label: 'Books',
+                  file: 'src/pages/Books/BookData.json',
+                  fields: [
+                    {
+                      label: 'Books',
+                      name: 'books',
+                      widget: 'list',
+                      summary: '{{fields.title}} — {{fields.author}}',
+                      fields: [
+                        { label: 'Title', name: 'title', widget: 'string' },
+                        { label: 'Author', name: 'author', widget: 'string', required: false },
+                        {
+                          label: 'Genre',
+                          name: 'genre',
+                          widget: 'list',
+                          field: { label: 'Genre', name: 'genre', widget: 'string' }
+                        },
+                        { label: 'Cover Image', name: 'image', widget: 'image', required: false },
+                        { label: 'Summary Link', name: 'summaryLink', widget: 'string', required: false, hint: 'e.g. /books/Fear_of_Freedom' },
+                        { label: 'ID', name: 'id', widget: 'string', required: false, hint: 'Matches the book summary markdown filename, e.g. Fear_of_Freedom' },
+                        { label: 'Additional Info', name: 'additionalInfo', widget: 'string', required: false }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               name: 'book_summaries',
               label: 'Book Summaries',
               folder: 'public/book_summaries',
