@@ -27,10 +27,10 @@ const App = () => {
   return (
     <div>
       <Helmet>
-        <title>James' Personal Website</title>
+        <title>James O'Leary</title>
         <meta name="description" content="Personal website featuring articles on philosophy, computer science, and Footium, along with book summaries and a knowledge graph." />
         <meta name="keywords" content="philosophy, computer science, Footium, book summaries, knowledge graph" />
-        <meta property="og:title" content="James' Personal Website" />
+        <meta property="og:title" content="James O'Leary" />
         <meta property="og:description" content="Personal website featuring articles on philosophy, computer science, and Footium, along with book summaries and a knowledge graph." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={typeof window !== 'undefined' ? window.location.href : 'https://yourwebsite.com'} />
