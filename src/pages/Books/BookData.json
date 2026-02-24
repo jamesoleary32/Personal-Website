@@ -1070,6 +1070,14 @@
         "Science Fiction"
       ],
       "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Strategy",
+      "author": "Basil Lidel Hart",
+      "genre": [],
+      "image": "/images/Placeholder_Book_Cover.svg",
+      "summaryLink": "/books/strategy",
+      "id": "strategy"
     }
   ]
 }
