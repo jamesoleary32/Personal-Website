@@ -10,7 +10,7 @@ const BookSummary = () => {
     console.log('BookSummary rendered with bookId:', bookId);
     
     // Find the book in BookData
-    const book = BookData.find(b => b.summaryLink === `/books/${bookId}`);
+    const book = BookData.books.find(b => b.summaryLink === `/books/${bookId}`);
     console.log('Found book:', book);
     
     // If book doesn't exist, redirect to books page
