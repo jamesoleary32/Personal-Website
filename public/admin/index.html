@@ -49,6 +49,28 @@
                 { label: 'Body', name: 'body', widget: 'markdown' },
                 { label: 'Private Notes', name: 'notes', widget: 'text', required: false, hint: 'Not published — for your eyes only.' }
               ]
+            },
+            {
+              name: 'book_summaries',
+              label: 'Book Summaries',
+              folder: 'public/book_summaries',
+              create: true,
+              extension: 'md',
+              slug: '{{slug}}',
+              summary: '{{title}} — {{author}}',
+              fields: [
+                { label: 'Title', name: 'title', widget: 'string' },
+                { label: 'Author', name: 'author', widget: 'string' },
+                {
+                  label: 'Genre',
+                  name: 'genre',
+                  widget: 'list',
+                  field: { label: 'Genre', name: 'genre', widget: 'string' }
+                },
+                { label: 'Cover Image', name: 'image', widget: 'image', required: false },
+                { label: 'Body', name: 'body', widget: 'markdown' },
+                { label: 'Private Notes', name: 'notes', widget: 'text', required: false, hint: 'Not published — for your eyes only.' }
+              ]
             }
           ]
         }
