@@ -1,1073 +1,1075 @@
-{"books": [
-  {
-    "title": "The Years of Lyndon Johnson: Master of the Senate",
-    "author": "Robert A. Caro",
-    "genre": [
-      "Biography",
-      "History",
-      "Politics"
-    ],
-    "image": "/images/The_Years_of_Lyndon_Johnson_Master_of_the_Senate_Cover.jpg"
-  },
-  {
-    "title": "The Power Broker",
-    "author": "Robert A. Caro",
-    "additionalInfo": "Robert Moses",
-    "genre": [
-      "Biography",
-      "History",
-      "Politics",
-      "Management"
-    ],
-    "image": "/images/The_Power_Broker_Cover.jpg"
-  },
-  {
-    "title": "Henry Kissinger & American Power",
-    "author": "Thomas A. Schwartz",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics "
-    ],
-    "image": "/images/Henry_Kissinger_and_American_Power_Cover.jpg"
-  },
-  {
-    "title": "The Great Betrayal",
-    "author": "Ian Smith",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics"
-    ],
-    "image": "/images/The_Great_Betrayal_Cover.jpg"
-  },
-  {
-    "title": "Team of Rivals",
-    "additionalInfo": "Abraham Lincoln",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics",
-      "Leadership"
-    ],
-    "image": "/images/Team_of_Rivals_Cover.jpg"
-  },
-  {
-    "title": "The making of Oliver Cromwell",
-    "author": "Ronald Hutton",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics"
-    ],
-    "image": "/images/The_Making_of_Oliver_Cromwell_Cover.jpg"
-  },
-  {
-    "title": "Citizen Clem",
-    "additionalInfo": "Clement Atlee",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics"
-    ],
-    "image": "/images/Citizen_Clem_Cover.jpg"
-  },
-  {
-    "title": "Pieces of the Action",
-    "author": "Vannevar Bush",
-    "genre": [
-      "Autobiography",
-      "History",
-      "Warfare",
-      "Politics",
-      "Management"
-    ],
-    "image": "/images/Pieces_of_the_Action_Cover.jpg",
-    "summaryLink": "/books/Pieces_of_the_Action",
-    "id": "Pieces_of_the_Action"
-  },
-  {
-    "title": "The knowledge we have lost in information",
-    "author": "Philip Mirowski",
-    "genre": [
-      "Economics",
-      "History",
-      "Philosophy",
-      "Politics"
-    ],
-    "image": "/images/The_Knowledge_We_Have_Lost_in_Information_Cover.jpg",
-    "summaryLink": "/books/The_Knowledge_We_Have_Lost_in_Information",
-    "id": "The_Knowledge_We_Have_Lost_in_Information"
-  },
-  {
-    "title": "Science-Mart: Privatising American Science",
-    "author": "Philip Mirowski",
-    "genre": [
-      "Economics",
-      "History",
-      "Philosophy",
-      "Politics"
-    ],
-    "image": "/images/Science_Mart_Cover.jpg",
-    "summaryLink": "/books/The_Privatisation_Of_American_Science",
-    "id": "The_Privatisation_Of_American_Science"
-  },
-  {
-    "title": "The Road from Mont Pelerin",
-    "author": "Philip Mirowski",
-    "genre": [
-      "Economics",
-      "History",
-      "Philosophy",
-      "Politics"
-    ],
-    "image": "/images/The_Road_from_Mont_Pelerin_Cover.jpg",
-    "summaryLink": "/books/The_Road_From_Mont_Pelerin",
-    "id": "The_Road_From_Mont_Pelerin"
-  },
-  {
-    "title": "On China",
-    "author": "Henry Kissinger",
-    "genre": [
-      "Autobiography ",
-      "History",
-      "Warfare",
-      "Politics "
-    ],
-    "image": "/images/On_China_Cover.jpg"
-  },
-  {
-    "title": "The Concept of the Political",
-    "author": "Carl Schmitt",
-    "genre": [
-      "History",
-      "Politics",
-      "Philosophy"
-    ],
-    "image": "/images/The_Concept_of_the_Political_Cover.jpg"
-  },
-  {
-    "title": "Talent",
-    "author": "Tyler Cowen and Daniel Gross",
-    "genre": [
-      "Psychology",
-      "Business"
-    ],
-    "image": "/images/Talent_Cover.jpg"
-  },
-  {
-    "title": "Pyramid of Game Design",
-    "author": "Nicholas Lovell",
-    "genre": [
-      "Business",
-      "Game Design"
-    ],
-    "image": "/images/Pyramid_of_Game_Design_Cover.jpg"
-  },
-  {
-    "title": "Understanding UK Military Capability",
-    "author": "Andrew R. Curtis",
-    "genre": [
-      "History",
-      "Politics",
-      "Warfare"
-    ],
-    "image": "/images/Understanding_UK_Military_Capability_Cover.jpg"
-  },
-  {
-    "title": "Technics and Civilisation",
-    "author": "Lewis Mumford",
-    "genre": [
-      "History",
-      "Technology",
-      "Philosophy"
-    ],
-    "image": "/images/Technics_and_Civilisation_Cover.jpg",
-    "summaryLink": "/books/Technics_and_Civilisation",
-    "id": "Technics_and_Civilisation"
-  },
-  {
-    "title": "The Beginning of Infinity",
-    "author": "David Deutsch",
-    "genre": [
-      "Physics",
-      "Philosophy"
-    ],
-    "image": "/images/The_Beginning_of_Infinity_Cover.jpg"
-  },
-  {
-    "title": "Systems Theory",
-    "author": "Niklas Luhmann",
-    "genre": [
-      "Sociology",
-      "Philosophy"
-    ],
-    "image": "/images/Systems_Theory_Cover.jpg",
-    "summaryLink": "/books/Systems_Theory",
-    "id": "Systems_Theory"
-  },
-  {
-    "title": "Reduction and Emergence in Science and Philosophy",
-    "author": "Carl Gillet",
-    "genre": [
-      "Physics",
-      "Philosophy"
-    ],
-    "image": "/images/Reduction_and_Emergence_in_Science_and_Philosophy_Cover.jpg"
-  },
-  {
-    "title": "The History of Mining",
-    "author": "Michael Coulson",
-    "genre": [
-      "History",
-      "Geology"
-    ],
-    "image": "/images/The_History_of_Mining_Cover.jpg",
-    "summaryLink": "/books/The_History_of_Mining",
-    "id": "The_History_of_Mining"
-  },
-  {
-    "title": "A Global History of Money",
-    "author": "Akinobu Kuroda",
-    "genre": [
-      "History",
-      "Economics"
-    ],
-    "image": "/images/A_Global_History_of_Money_Cover.jpg",
-    "summaryLink": "/books/A_Global_History_of_Money",
-    "id": "A_Global_History_of_Money"
-  },
-  {
-    "title": "The Politics of Nuclear Weapons",
-    "author": "Akinobu Kuroda",
-    "genre": [
-      "History",
-      "Politics",
-      "Warfare"
-    ],
-    "image": "/images/The_Politics_of_Nuclear_Weapons_Cover.jpg",
-    "summaryLink": "/books/The_Politics_of_Nuclear_Weapons",
-    "id": "The_Politics_of_Nuclear_Weapons"
-  },
-  {
-    "title": "Intensive Science and Virtual Philosophy",
-    "author": "Manuel DeLanda",
-    "genre": [
-      "Philosophy",
-      "Physics",
-      "Mathematics"
-    ],
-    "summaryLink": "/books/Intensive_Science_Virtual_Philosophy",
-    "id": "Intensive_Science_Virtual_Philosophy",
-    "image": "/images/Intensive_Science_Virtual_Philosophy_Cover.jpg"
-  },
-  {
-    "title": "Religion: Rereading What Is Bound Together",
-    "author": "Michel Serres",
-    "genre": [
-      "Philosophy",
-      "Mathematics"
-    ],
-    "summaryLink": "/books/Religion_Rereading_What_Is_Bound_Together",
-    "id": "Religion_Rereading_What_Is_Bound_Together",
-    "image": "/images/Religion_Rereading_What_Is_Bound_Together_Cover.jpg"
-  },
-  {
-    "title": "A New Philosophy of Society",
-    "author": "Manuel DeLanda",
-    "genre": [
-      "Philosophy",
-      "Sociology"
-    ],
-    "image": "/images/A_New_Philosophy_of_Society_Cover.jpg",
-    "summaryLink": "/books/A_New_Philosophy_of_Society",
-    "id": "A_New_Philosophy_of_Society"
-  },
-  {
-    "title": "Philosophy and Simulation: The Emergence of Synthetic Reason",
-    "author": "Manuel DeLanda",
-    "genre": [
-      "Philosophy",
-      "Sociology",
-      "Physics"
-    ],
-    "image": "/images/Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason_Cover.jpg",
-    "summaryLink": "/books/Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason",
-    "id": "Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason"
-  },
-  {
-    "title": "A Thousand Years of Non-Linear History",
-    "author": "Manuel DeLanda",
-    "genre": [
-      "Philosophy",
-      "Sociology",
-      "History"
-    ],
-    "image": "/images/A_Thousand_Years_of_Non-Linear_History_Cover.jpg",
-    "summaryLink": "/books/A_Thousand_Years_of_Non-Linear_History",
-    "id": "A_Thousand_Years_of_Non-Linear_History"
-  },
-  {
-    "title": "Lean Startup",
-    "author": "Eric Ries",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/Lean_Startup_Cover.jpg"
-  },
-  {
-    "title": "One Up",
-    "author": "Joost van Dreunen",
-    "genre": [
-      "Business",
-      "Management",
-      "Games"
-    ],
-    "image": "/images/One_Up_Cover.jpg"
-  },
-  {
-    "title": "Blood Sweat and Pixels",
-    "author": "Jason Schrier",
-    "genre": [
-      "Business",
-      "Management",
-      "Games"
-    ],
-    "image": "/images/Blood_Sweat_and_Pixels_Cover.jpg"
-  },
-  {
-    "title": "Shorting the Grid",
-    "author": "Meredith Angwin",
-    "genre": [
-      "Politics",
-      "Technology"
-    ],
-    "image": "/images/Shorting_the_Grid_Cover.jpg",
-    "summaryLink": "/books/Shorting_the_Grid",
-    "id": "Shorting_the_Grid"
-  },
-  {
-    "title": "Fear of Freedom",
-    "author": "Erich Fromm",
-    "genre": [
-      "Politics",
-      "Sociology",
-      "Psychology"
-    ],
-    "image": "/images/Fear_of_Freedom_Cover.jpg",
-    "summaryLink": "/books/Fear_of_Freedom",
-    "id": "Fear_of_Freedom"
-  },
-  {
-    "title": "The Audacity to Win",
-    "author": "David Plouffe",
-    "genre": [
-      "Politics",
-      "Leadership"
-    ],
-    "image": "/images/The_Audacity_to_Win_Cover.jpg"
-  },
-  {
-    "title": "The World for Sale",
-    "author": "Javier Blas",
-    "genre": [
-      "Politics",
-      "Economics"
-    ],
-    "image": "/images/The_World_for_Sale_Cover.jpg"
-  },
-  {
-    "title": "Chip War",
-    "author": "Chris Miller",
-    "genre": [
-      "Technology",
-      "Economics",
-      "Politics"
-    ],
-    "image": "/images/Chip_War_Cover.jpg"
-  },
-  {
-    "title": "Course in General Linguists",
-    "author": "Ferdinand de Saussure",
-    "genre": [
-      "Psychology",
-      "Linguistics"
-    ],
-    "image": "/images/Course_in_General_Linguists_Cover.jpg",
-    "summaryLink": "/books/Course_in_General_Linguistics",
-    "id": "Course_in_General_Linguistics"
-  },
-  {
-    "title": "Fear and Loathing in Las Vegas",
-    "author": "Hunter S Thompson",
-    "genre": [
-      "Fiction"
-    ],
-    "additionalInfo": "test",
-    "image": "/images/Fear_and_Loathing_in_Las_Vegas_Cover.jpg"
-  },
-  {
-    "title": "Legal Systems Very Different From Ours",
-    "author": "David Friedman",
-    "genre": [
-      "Law",
-      "Sociology",
-      "Economics"
-    ],
-    "image": "/images/Legal_Systems_Very_Different_From_Ours_Cover.jpg",
-    "summaryLink": "/books/Legal_Systems_Very_Different_From_Ours",
-    "id": "Legal_Systems_Very_Different_From_Ours"
-  },
-  {
-    "title": "Political Order and Political Decay",
-    "author": "Francis Fukuyama",
-    "genre": [
-      "Politics",
-      "History",
-      "Economics",
-      "Law",
-      "Sociology"
-    ],
-    "image": "/images/Political_Order_and_Political_Decay_Cover.jpg"
-  },
-  {
-    "title": "High Output Management",
-    "author": "Andrew Grove",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/High_Output_Management_Cover.jpg"
-  },
-  {
-    "title": "Only the Paranoid Survive",
-    "author": "Andrew Grove",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/Only_the_Paranoid_Survive_Cover.jpg"
-  },
-  {
-    "title": "Blockchain and the Law",
-    "author": "Primavera De Fillipi",
-    "genre": [
-      "Law",
-      "Technology"
-    ],
-    "image": "/images/Blockchain_and_the_Law_Cover.jpg"
-  },
-  {
-    "title": "The Rule of Law",
-    "author": "Tom Bingham",
-    "genre": [
-      "Law"
-    ],
-    "image": "/images/The_Rule_of_Law_Cover.jpg"
-  },
-  {
-    "title": "Hooked",
-    "author": "Nir Eyal",
-    "genre": [
-      "Business"
-    ],
-    "image": "/images/Hooked_Cover.jpg"
-  },
-  {
-    "title": "The Blunders of Our Government",
-    "author": "Ivor Crewe",
-    "genre": [
-      "Politics",
-      "History"
-    ],
-    "image": "/images/The_Blunders_of_Our_Government_Cover.jpg",
-    "summaryLink": "/books/The_Blunders_of_Our_Government",
-    "id": "The_Blunders_of_Our_Government"
-  },
-  {
-    "title": "Foucault on Power",
-    "author": "Michel Foucault",
-    "genre": [
-      "History",
-      "Philosophy"
-    ],
-    "image": "/images/Foucault_on_Power_Cover.jpg"
-  },
-  {
-    "title": "Killing the Host",
-    "author": "Michael Hudson",
-    "genre": [
-      "History",
-      "Economics"
-    ],
-    "image": "/images/Killing_the_Host_Cover.jpg"
-  },
-  {
-    "title": "The Unecessary War",
-    "author": "Pat Buchanan",
-    "genre": [
-      "History"
-    ],
-    "image": "/images/The_Unecessary_War_Cover.jpg"
-  },
-  {
-    "title": "Solaris",
-    "author": "Stanislaw Lem",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Solaris_Cover.jpg"
-  },
-  {
-    "title": "The Crisis of the Modern World",
-    "author": "Rene Guenon",
-    "genre": [
-      "Philosophy"
-    ],
-    "image": "/images/The_Crisis_of_the_Modern_World_Cover.jpg"
-  },
-  {
-    "title": "The Reign of Quantity and the Signs of the Times",
-    "author": "Rene Guenon",
-    "genre": [
-      "Philosophy"
-    ],
-    "image": "/images/The_Reign_of_Quantity_and_the_Signs_of_the_Times_Cover.jpg"
-  },
-  {
-    "title": "The Book of the New Sun",
-    "author": "Gene Wolfe",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/The_Book_of_the_New_Sun_Cover.jpg"
-  },
-  {
-    "title": "The World Crisis",
-    "author": "Winston Churchill",
-    "genre": [
-      "History"
-    ],
-    "image": "/images/The_World_Crisis_Cover.jpg"
-  },
-  {
-    "title": "Waging Insurgent Warfare",
-    "author": "Seth Jones",
-    "genre": [
-      "History",
-      "Warfare"
-    ],
-    "image": "/images/Waging_Insurgent_Warfare_Cover.jpg"
-  },
-  {
-    "title": "Against Method",
-    "author": "Paul Feyerabend",
-    "genre": [
-      "Philosophy"
-    ],
-    "image": "/images/Against_Method_Cover.jpg"
-  },
-  {
-    "title": "The Master and Margarita",
-    "author": "Mikhail Bulgakov",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/The_Master_and_Margarita_Cover.jpg"
-  },
-  {
-    "title": "Decline of the West",
-    "author": "Oswald Spengler",
-    "genre": [
-      "History"
-    ],
-    "image": "/images/Decline_of_the_West_Cover.jpg",
-    "summaryLink": "/books/Decline_of_the_West",
-    "id": "Decline_of_the_West"
-  },
-  {
-    "title": "Madness and Civilization",
-    "author": "Michel Foucault",
-    "genre": [
-      "History"
-    ],
-    "image": "/images/Madness_and_Civilization_Cover.jpg"
-  },
-  {
-    "title": "Usury, or Interest",
-    "author": "Jeremiah O'Callaghan",
-    "genre": [
-      "History",
-      "Philosophy",
-      "Economics"
-    ],
-    "image": "/images/Usury_or_Interest_Cover.jpg"
-  },
-  {
-    "title": "Simulacra and Simulation",
-    "author": "Jean Baudrillard",
-    "genre": [
-      "Philosophy"
-    ],
-    "image": "/images/Simulacra_and_Simulation_Cover.jpg",
-    "summaryLink": "/books/Simulacra_and_Simulation",
-    "id": "Simulacra_and_Simulation"
-  },
-  {
-    "title": "Machine Dreams",
-    "author": "Philip Mirowski",
-    "genre": [
-      "Philosophy"
-    ],
-    "image": "/images/Machine_Dreams_Cover.jpg",
-    "summaryLink": "/books/Machine_Dreams",
-    "id": "Machine_Dreams"
-  },
-  {
-    "title": "War in the Age of Intelligent Machines",
-    "author": "Manuel DeLanda",
-    "genre": [
-      "History",
-      "Warfare"
-    ],
-    "image": "/images/War_in_the_Age_of_Intelligent_Machines_Cover.jpg",
-    "summaryLink": "/books/War_in_the_Age_of_Intelligent_Machines",
-    "id": "War_in_the_Age_of_Intelligent_Machines"
-  },
-  {
-    "title": "The Challenge Launch Decision",
-    "author": "Diane Vaughan",
-    "genre": [
-      "History",
-      "Management"
-    ],
-    "image": "/images/The_Challenge_Launch_Decision_Cover.jpg",
-    "summaryLink": "/books/The_Challenge_Launch_Decision",
-    "id": "The_Challenge_Launch_Decision"
-  },
-  {
-    "title": "In Retrospect",
-    "author": "Robert S. McNamara",
-    "genre": [
-      "Biography",
-      "History",
-      "Warfare",
-      "Politics"
-    ],
-    "image": "/images/Retrospect_Cover.jpg",
-    "summaryLink": "/books/Retrospect",
-    "id": "Retrospect"
-  },
-  {
-    "title": "The Collapse of Complex Societies ",
-    "author": "Joseph Tainter",
-    "genre": [
-      "History",
-      "Economics"
-    ],
-    "image": "/images/The_Collapse_of_Complex_Societies_Cover.jpg",
-    "summaryLink": "/books/The_Collapse_of_Complex_Societies",
-    "id": "The_Collapse_of_Complex_Societies"
-  },
-  {
-    "title": "How Life Works",
-    "author": "Phillip Ball",
-    "genre": [
-      "Biology"
-    ],
-    "image": "/images/How_Life_Works_Cover.jpg",
-    "summaryLink": "/books/How_Life_Works",
-    "id": "How_Life_Works"
-  },
-  {
-    "title": "Collapse: The Fall of the Soviet Union",
-    "author": "Vladislav Zubok",
-    "genre": [
-      "History",
-      "Politics"
-    ],
-    "image": "/images/Collapse_The_Fall_of_the_Soviet_Union_Cover.jpg",
-    "summaryLink": "/books/Collapse_The_Fall_of_the_Soviet_Union",
-    "id": "Collapse_The_Fall_of_the_Soviet_Union"
-  },
-  {
-    "title": "The Age of AI",
-    "author": "Henry Kissinger",
-    "genre": [
-      "History",
-      "Technology"
-    ],
-    "image": "/images/The_Age_of_AI_Cover.jpg"
-  },
-  {
-    "title": "Infinite Jest",
-    "author": "David Foster Wallace",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Infinite_Jest_Cover.jpg"
-  },
-  {
-    "title": "The Secret History",
-    "author": "Donna Tart",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/The_Secret_History_Cover.jpg"
-  },
-  {
-    "title": "The Closing of the American Mind",
-    "author": "Allan Bloom",
-    "genre": [
-      "History",
-      "Philosophy"
-    ],
-    "image": "/images/The_Closing_of_the_American_Mind_Cover.jpg"
-  },
-  {
-    "title": "Crime and Punishment",
-    "author": "Fyodor Dostoevsky",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Crime_and_Punishment_Cover.jpg"
-  },
-  {
-    "title": "Fear and Loathing on the Campaign Trail '72",
-    "author": "Hunter S Thompson",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Fear_and_Loathing_on_the_Campaign_Trail_72_Cover.jpg"
-  },
-  {
-    "title": "Hells Angels",
-    "author": "Hunter S Thompson",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Hells_Angels_Cover.jpg"
-  },
-  {
-    "title": "Alanbrooke War Diaries",
-    "author": "Alan Brooke",
-    "genre": [
-      "History",
-      "Warfare"
-    ],
-    "image": "/images/Alanbrooke_War_Diaries_Cover.jpg"
-  },
-  {
-    "title": "There is no Anti-Mimetics Division",
-    "author": "Qntm",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/There_is_no_AntiMimetics_Division_Cover.jpeg"
-  },
-  {
-    "title": "Annihalation",
-    "author": "Michel Houellebecq",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Annihalation_Cover.jpg"
-  },
-  {
-    "title": "Submission",
-    "author": "Michel Houellebecq",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Submission_Cover.jpg"
-  },
-  {
-    "title": "Serotonin",
-    "author": "Michel Houellebecq",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Serotonin_Cover.jpeg"
-  },
-  {
-    "title": "The Map and the Territory",
-    "author": "Michel Houellebecq",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/The_Map_and_the_Territory_Cover.jpg"
-  },
-  {
-    "title": "Atomised",
-    "author": "Michel Houellebecq",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Atomised_Cover.jpeg"
-  },
-  {
-    "title": "Zero to One",
-    "author": "Peter Thiel",
-    "genre": [
-      "Business"
-    ],
-    "image": "/images/Zero_to_One_Cover.jpg"
-  },
-  {
-    "title": "Strategy",
-    "author": "B. H. Liddell Hart",
-    "genre": [
-      "History",
-      "Warfare"
-    ],
-    "image": "/images/Strategy_Cover.jpg"
-  },
-  {
-    "title": "Foundations of Corporate Success",
-    "author": "John Kay",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/Foundations_of_Corporate_Success_Cover.jpg"
-  },
-  {
-    "title": "Object-Oriented Systems Analysis: A Model-Driven Approach",
-    "author": "David W. Embley, Barry D. Kurtz, Scott N. Woodfield",
-    "genre": [
-      "Technology",
-      "Software"
-    ],
-    "image": "/images/Object_Oriented_Systems_Analysis_Cover.jpg"
-  },
-  {
-    "title": "Competitive and Corporate Strategy",
-    "author": "Cliff Bowman",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/Competitive_and_Corporate_Strategy_Cover.jpg"
-  },
-  {
-    "title": "Virtual Economies",
-    "author": "Vili Lehdonvirta and Edward Castronova",
-    "genre": [
-      "Economics",
-      "Technology",
-      "Games"
-    ],
-    "image": "/images/Virtual_Economies_Cover.jpg"
-  },
-  {
-    "title": "Kennedy",
-    "author": "Theodore C. Sorensen",
-    "genre": [
-      "Biography",
-      "History",
-      "Politics"
-    ],
-    "image": "/images/Kennedy_Sorensen_Cover.jpg"
-  },
-  {
-    "title": "Fragile Empire",
-    "author": "Ben Judah",
-    "genre": [
-      "History",
-      "Politics"
-    ],
-    "image": "/images/Fragile_Empire_Cover.jpg"
-  },
-  {
-    "title": "The Wealth of Networks",
-    "author": "Yochai Benkler",
-    "genre": [
-      "Technology",
-      "Economics"
-    ],
-    "image": "/images/The_Wealth_of_Networks_Cover.jpg"
-  },
-  {
-    "title": "The Oxford Handbook of Carl Schmitt",
-    "author": "Jens Meierhenrich and Oliver Simons (eds.)",
-    "genre": [
-      "History",
-      "Politics",
-      "Philosophy"
-    ],
-    "image": "/images/The_Oxford_Handbook_of_Carl_Schmitt_Cover.jpg"
-  },
-  {
-    "title": "The Visible Hand",
-    "author": "Alfred D. Chandler Jr.",
-    "genre": [
-      "History",
-      "Economics",
-      "Business"
-    ],
-    "image": "/images/The_Visible_Hand_Cover.jpg"
-  },
-  {
-    "title": "Scale and Scope",
-    "author": "Alfred D. Chandler Jr.",
-    "genre": [
-      "History",
-      "Economics",
-      "Business"
-    ],
-    "image": "/images/Scale_and_Scope_Cover.jpg"
-  },
-  {
-    "title": "The Dynamic Firm",
-    "author": "Alfred D. Chandler Jr., Peter Hagström, and Örjan Sölvell",
-    "genre": [
-      "Business",
-      "Management"
-    ],
-    "image": "/images/The_Dynamic_Firm_Cover.jpg"
-  },
-  {
-    "title": "The Box",
-    "author": "Marc Levinson",
-    "genre": [
-      "History",
-      "Economics"
-    ],
-    "image": "/images/The_Box_Cover.jpg"
-  },
-  {
-    "title": "Bismarck",
-    "author": "Jonathan Steinberg",
-    "genre": [
-      "Biography",
-      "History",
-      "Politics"
-    ],
-    "image": "/images/Bismarck_Cover.jpg"
-  },
-  {
-    "title": "The Opium War",
-    "author": "Julia Lovell",
-    "genre": [
-      "History",
-      "Warfare",
-      "Politics"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "The Complete Robot",
-    "author": "Isaac Asimov",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Norwegian Wood",
-    "author": "Haruki Murakami",
-    "genre": [
-      "Fiction",
-      "Literature"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "A Scanner Darkly",
-    "author": "Philip K. Dick",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Dune",
-    "author": "Frank Herbert",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "The Hustler",
-    "author": "Walter Tevis",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Catch-22",
-    "author": "Joseph Heller",
-    "genre": [
-      "Fiction",
-      "Warfare",
-      "Satire"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Metro 2033",
-    "author": "Dmitry Glukhovsky",
-    "genre": [
-      "Science Fiction",
-      "Post-Apocalyptic"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Metro 2034",
-    "author": "Dmitry Glukhovsky",
-    "genre": [
-      "Science Fiction",
-      "Post-Apocalyptic"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "The Dark Fields",
-    "author": "Alan Glynn",
-    "genre": [
-      "Fiction"
-    ],
-    "image": "/images/The_Dark_Fields_Cover.jpg"
-  },
-  {
-    "title": "Foundation",
-    "author": "Isaac Asimov",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Foundation and Empire",
-    "author": "Isaac Asimov",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "Second Foundation",
-    "author": "Isaac Asimov",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  },
-  {
-    "title": "The Cyberiad",
-    "author": "Stanislaw Lem",
-    "genre": [
-      "Science Fiction"
-    ],
-    "image": "/images/Placeholder_Book_Cover.svg"
-  }
-]}
+{
+  "books": [
+    {
+      "title": "The Years of Lyndon Johnson: Master of the Senate",
+      "author": "Robert A. Caro",
+      "genre": [
+        "Biography",
+        "History",
+        "Politics"
+      ],
+      "image": "/images/The_Years_of_Lyndon_Johnson_Master_of_the_Senate_Cover.jpg"
+    },
+    {
+      "title": "The Power Broker",
+      "author": "Robert A. Caro",
+      "additionalInfo": "Robert Moses",
+      "genre": [
+        "Biography",
+        "History",
+        "Politics",
+        "Management"
+      ],
+      "image": "/images/The_Power_Broker_Cover.jpg"
+    },
+    {
+      "title": "Henry Kissinger & American Power",
+      "author": "Thomas A. Schwartz",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics "
+      ],
+      "image": "/images/Henry_Kissinger_and_American_Power_Cover.jpg"
+    },
+    {
+      "title": "The Great Betrayal",
+      "author": "Ian Smith",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics"
+      ],
+      "image": "/images/The_Great_Betrayal_Cover.jpg"
+    },
+    {
+      "title": "Team of Rivals",
+      "additionalInfo": "Abraham Lincoln",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics",
+        "Leadership"
+      ],
+      "image": "/images/Team_of_Rivals_Cover.jpg"
+    },
+    {
+      "title": "The making of Oliver Cromwell",
+      "author": "Ronald Hutton",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics"
+      ],
+      "image": "/images/The_Making_of_Oliver_Cromwell_Cover.jpg"
+    },
+    {
+      "title": "Citizen Clem",
+      "additionalInfo": "Clement Atlee",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics"
+      ],
+      "image": "/images/Citizen_Clem_Cover.jpg"
+    },
+    {
+      "title": "Pieces of the Action",
+      "author": "Vannevar Bush",
+      "genre": [
+        "Autobiography",
+        "History",
+        "Warfare",
+        "Politics",
+        "Management"
+      ],
+      "image": "/images/Pieces_of_the_Action_Cover.jpg",
+      "summaryLink": "/books/Pieces_of_the_Action",
+      "id": "Pieces_of_the_Action"
+    },
+    {
+      "title": "The knowledge we have lost in information",
+      "author": "Philip Mirowski",
+      "genre": [
+        "Economics",
+        "History",
+        "Philosophy",
+        "Politics"
+      ],
+      "image": "/images/The_Knowledge_We_Have_Lost_in_Information_Cover.jpg",
+      "summaryLink": "/books/The_Knowledge_We_Have_Lost_in_Information",
+      "id": "The_Knowledge_We_Have_Lost_in_Information"
+    },
+    {
+      "title": "Science-Mart: Privatising American Science",
+      "author": "Philip Mirowski",
+      "genre": [
+        "Economics",
+        "History",
+        "Philosophy",
+        "Politics"
+      ],
+      "image": "/images/Science_Mart_Cover.jpg",
+      "summaryLink": "/books/The_Privatisation_Of_American_Science",
+      "id": "The_Privatisation_Of_American_Science"
+    },
+    {
+      "title": "The Road from Mont Pelerin",
+      "author": "Philip Mirowski",
+      "genre": [
+        "Economics",
+        "History",
+        "Philosophy",
+        "Politics"
+      ],
+      "image": "/images/The_Road_from_Mont_Pelerin_Cover.jpg",
+      "summaryLink": "/books/The_Road_From_Mont_Pelerin",
+      "id": "The_Road_From_Mont_Pelerin"
+    },
+    {
+      "title": "On China",
+      "author": "Henry Kissinger",
+      "genre": [
+        "Autobiography ",
+        "History",
+        "Warfare",
+        "Politics "
+      ],
+      "image": "/images/On_China_Cover.jpg"
+    },
+    {
+      "title": "The Concept of the Political",
+      "author": "Carl Schmitt",
+      "genre": [
+        "History",
+        "Politics",
+        "Philosophy"
+      ],
+      "image": "/images/The_Concept_of_the_Political_Cover.jpg"
+    },
+    {
+      "title": "Talent",
+      "author": "Tyler Cowen and Daniel Gross",
+      "genre": [
+        "Psychology",
+        "Business"
+      ],
+      "image": "/images/Talent_Cover.jpg"
+    },
+    {
+      "title": "Pyramid of Game Design",
+      "author": "Nicholas Lovell",
+      "genre": [
+        "Business",
+        "Game Design"
+      ],
+      "image": "/images/Pyramid_of_Game_Design_Cover.jpg"
+    },
+    {
+      "title": "Understanding UK Military Capability",
+      "author": "Andrew R. Curtis",
+      "genre": [
+        "History",
+        "Politics",
+        "Warfare"
+      ],
+      "image": "/images/Understanding_UK_Military_Capability_Cover.jpg"
+    },
+    {
+      "title": "Technics and Civilisation",
+      "author": "Lewis Mumford",
+      "genre": [
+        "History",
+        "Technology",
+        "Philosophy"
+      ],
+      "image": "/images/Technics_and_Civilisation_Cover.jpg",
+      "summaryLink": "/books/Technics_and_Civilisation",
+      "id": "Technics_and_Civilisation"
+    },
+    {
+      "title": "The Beginning of Infinity",
+      "author": "David Deutsch",
+      "genre": [
+        "Physics",
+        "Philosophy"
+      ],
+      "image": "/images/The_Beginning_of_Infinity_Cover.jpg"
+    },
+    {
+      "title": "Systems Theory",
+      "author": "Niklas Luhmann",
+      "genre": [
+        "Sociology",
+        "Philosophy"
+      ],
+      "image": "/images/Systems_Theory_Cover.jpg",
+      "summaryLink": "/books/Systems_Theory",
+      "id": "Systems_Theory"
+    },
+    {
+      "title": "Reduction and Emergence in Science and Philosophy",
+      "author": "Carl Gillet",
+      "genre": [
+        "Physics",
+        "Philosophy"
+      ],
+      "image": "/images/Reduction_and_Emergence_in_Science_and_Philosophy_Cover.jpg"
+    },
+    {
+      "title": "The History of Mining",
+      "author": "Michael Coulson",
+      "genre": [
+        "History",
+        "Geology"
+      ],
+      "image": "/images/The_History_of_Mining_Cover.jpg",
+      "summaryLink": "/books/The_History_of_Mining",
+      "id": "The_History_of_Mining"
+    },
+    {
+      "title": "A Global History of Money",
+      "author": "Akinobu Kuroda",
+      "genre": [
+        "History",
+        "Economics"
+      ],
+      "image": "/images/A_Global_History_of_Money_Cover.jpg",
+      "summaryLink": "/books/A_Global_History_of_Money",
+      "id": "A_Global_History_of_Money"
+    },
+    {
+      "title": "The Politics of Nuclear Weapons",
+      "author": "Akinobu Kuroda",
+      "genre": [
+        "History",
+        "Politics",
+        "Warfare"
+      ],
+      "image": "/images/The_Politics_of_Nuclear_Weapons_Cover.jpg",
+      "summaryLink": "/books/The_Politics_of_Nuclear_Weapons",
+      "id": "The_Politics_of_Nuclear_Weapons"
+    },
+    {
+      "title": "Intensive Science and Virtual Philosophy",
+      "author": "Manuel DeLanda",
+      "genre": [
+        "Philosophy",
+        "Physics",
+        "Mathematics"
+      ],
+      "summaryLink": "/books/Intensive_Science_Virtual_Philosophy",
+      "id": "Intensive_Science_Virtual_Philosophy",
+      "image": "/images/Intensive_Science_Virtual_Philosophy_Cover.jpg"
+    },
+    {
+      "title": "Religion: Rereading What Is Bound Together",
+      "author": "Michel Serres",
+      "genre": [
+        "Philosophy",
+        "Mathematics"
+      ],
+      "summaryLink": "/books/Religion_Rereading_What_Is_Bound_Together",
+      "id": "Religion_Rereading_What_Is_Bound_Together",
+      "image": "/images/Religion_Rereading_What_Is_Bound_Together_Cover.jpg"
+    },
+    {
+      "title": "A New Philosophy of Society",
+      "author": "Manuel DeLanda",
+      "genre": [
+        "Philosophy",
+        "Sociology"
+      ],
+      "image": "/images/A_New_Philosophy_of_Society_Cover.jpg",
+      "summaryLink": "/books/A_New_Philosophy_of_Society",
+      "id": "A_New_Philosophy_of_Society"
+    },
+    {
+      "title": "Philosophy and Simulation: The Emergence of Synthetic Reason",
+      "author": "Manuel DeLanda",
+      "genre": [
+        "Philosophy",
+        "Sociology",
+        "Physics"
+      ],
+      "image": "/images/Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason_Cover.jpg",
+      "summaryLink": "/books/Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason",
+      "id": "Philosophy_and_Simulation_The_Emergence_of_Synthetic_Reason"
+    },
+    {
+      "title": "A Thousand Years of Non-Linear History",
+      "author": "Manuel DeLanda",
+      "genre": [
+        "Philosophy",
+        "Sociology",
+        "History"
+      ],
+      "image": "/images/A_Thousand_Years_of_Non-Linear_History_Cover.jpg",
+      "summaryLink": "/books/A_Thousand_Years_of_Non-Linear_History",
+      "id": "A_Thousand_Years_of_Non-Linear_History"
+    },
+    {
+      "title": "Lean Startup",
+      "author": "Eric Ries",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/Lean_Startup_Cover.jpg"
+    },
+    {
+      "title": "One Up",
+      "author": "Joost van Dreunen",
+      "genre": [
+        "Business",
+        "Management",
+        "Games"
+      ],
+      "image": "/images/One_Up_Cover.jpg"
+    },
+    {
+      "title": "Blood Sweat and Pixels",
+      "author": "Jason Schrier",
+      "genre": [
+        "Business",
+        "Management",
+        "Games"
+      ],
+      "image": "/images/Blood_Sweat_and_Pixels_Cover.jpg"
+    },
+    {
+      "title": "Shorting the Grid",
+      "author": "Meredith Angwin",
+      "genre": [
+        "Politics",
+        "Technology"
+      ],
+      "image": "/images/Shorting_the_Grid_Cover.jpg",
+      "summaryLink": "/books/Shorting_the_Grid",
+      "id": "Shorting_the_Grid"
+    },
+    {
+      "title": "Fear of Freedom",
+      "author": "Erich Fromm",
+      "genre": [
+        "Politics",
+        "Sociology",
+        "Psychology"
+      ],
+      "image": "/images/Fear_of_Freedom_Cover.jpg",
+      "summaryLink": "/books/Fear_of_Freedom",
+      "id": "Fear_of_Freedom"
+    },
+    {
+      "title": "The Audacity to Win",
+      "author": "David Plouffe",
+      "genre": [
+        "Politics",
+        "Leadership"
+      ],
+      "image": "/images/The_Audacity_to_Win_Cover.jpg"
+    },
+    {
+      "title": "The World for Sale",
+      "author": "Javier Blas",
+      "genre": [
+        "Politics",
+        "Economics"
+      ],
+      "image": "/images/The_World_for_Sale_Cover.jpg"
+    },
+    {
+      "title": "Chip War",
+      "author": "Chris Miller",
+      "genre": [
+        "Technology",
+        "Economics",
+        "Politics"
+      ],
+      "image": "/images/Chip_War_Cover.jpg"
+    },
+    {
+      "title": "Course in General Linguists",
+      "author": "Ferdinand de Saussure",
+      "genre": [
+        "Psychology",
+        "Linguistics"
+      ],
+      "image": "/images/Course_in_General_Linguists_Cover.jpg",
+      "summaryLink": "/books/Course_in_General_Linguistics",
+      "id": "Course_in_General_Linguistics"
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "author": "Hunter S Thompson",
+      "genre": [
+        "Fiction"
+      ],
+      "additionalInfo": "test",
+      "image": "/images/Fear_and_Loathing_in_Las_Vegas_Cover.jpg"
+    },
+    {
+      "title": "Legal Systems Very Different From Ours",
+      "author": "David Friedman",
+      "genre": [
+        "Law",
+        "Sociology",
+        "Economics"
+      ],
+      "image": "/images/Legal_Systems_Very_Different_From_Ours_Cover.jpg",
+      "summaryLink": "/books/Legal_Systems_Very_Different_From_Ours",
+      "id": "Legal_Systems_Very_Different_From_Ours"
+    },
+    {
+      "title": "Political Order and Political Decay",
+      "author": "Francis Fukuyama",
+      "genre": [
+        "Politics",
+        "History",
+        "Economics",
+        "Law",
+        "Sociology"
+      ],
+      "image": "/images/Political_Order_and_Political_Decay_Cover.jpg"
+    },
+    {
+      "title": "High Output Management",
+      "author": "Andrew Grove",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/High_Output_Management_Cover.jpg"
+    },
+    {
+      "title": "Only the Paranoid Survive",
+      "author": "Andrew Grove",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/Only_the_Paranoid_Survive_Cover.jpg"
+    },
+    {
+      "title": "Blockchain and the Law",
+      "author": "Primavera De Fillipi",
+      "genre": [
+        "Law",
+        "Technology"
+      ],
+      "image": "/images/Blockchain_and_the_Law_Cover.jpg"
+    },
+    {
+      "title": "The Rule of Law",
+      "author": "Tom Bingham",
+      "genre": [
+        "Law"
+      ],
+      "image": "/images/The_Rule_of_Law_Cover.jpg"
+    },
+    {
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "genre": [
+        "Business"
+      ],
+      "image": "/images/Hooked_Cover.jpg"
+    },
+    {
+      "title": "The Blunders of Our Government",
+      "author": "Ivor Crewe",
+      "genre": [
+        "Politics",
+        "History"
+      ],
+      "image": "/images/The_Blunders_of_Our_Government_Cover.jpg",
+      "summaryLink": "/books/The_Blunders_of_Our_Government",
+      "id": "The_Blunders_of_Our_Government"
+    },
+    {
+      "title": "Foucault on Power",
+      "author": "Michel Foucault",
+      "genre": [
+        "History",
+        "Philosophy"
+      ],
+      "image": "/images/Foucault_on_Power_Cover.jpg"
+    },
+    {
+      "title": "Killing the Host",
+      "author": "Michael Hudson",
+      "genre": [
+        "History",
+        "Economics"
+      ],
+      "image": "/images/Killing_the_Host_Cover.jpg"
+    },
+    {
+      "title": "The Unecessary War",
+      "author": "Pat Buchanan",
+      "genre": [
+        "History"
+      ],
+      "image": "/images/The_Unecessary_War_Cover.jpg"
+    },
+    {
+      "title": "Solaris",
+      "author": "Stanislaw Lem",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Solaris_Cover.jpg"
+    },
+    {
+      "title": "The Crisis of the Modern World",
+      "author": "Rene Guenon",
+      "genre": [
+        "Philosophy"
+      ],
+      "image": "/images/The_Crisis_of_the_Modern_World_Cover.jpg"
+    },
+    {
+      "title": "The Reign of Quantity and the Signs of the Times",
+      "author": "Rene Guenon",
+      "genre": [
+        "Philosophy"
+      ],
+      "image": "/images/The_Reign_of_Quantity_and_the_Signs_of_the_Times_Cover.jpg"
+    },
+    {
+      "title": "The Book of the New Sun",
+      "author": "Gene Wolfe",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/The_Book_of_the_New_Sun_Cover.jpg"
+    },
+    {
+      "title": "The World Crisis",
+      "author": "Winston Churchill",
+      "genre": [
+        "History"
+      ],
+      "image": "/images/The_World_Crisis_Cover.jpg"
+    },
+    {
+      "title": "Waging Insurgent Warfare",
+      "author": "Seth Jones",
+      "genre": [
+        "History",
+        "Warfare"
+      ],
+      "image": "/images/Waging_Insurgent_Warfare_Cover.jpg"
+    },
+    {
+      "title": "Against Method",
+      "author": "Paul Feyerabend",
+      "genre": [
+        "Philosophy"
+      ],
+      "image": "/images/Against_Method_Cover.jpg"
+    },
+    {
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/The_Master_and_Margarita_Cover.jpg"
+    },
+    {
+      "title": "Decline of the West",
+      "author": "Oswald Spengler",
+      "genre": [
+        "History"
+      ],
+      "image": "/images/Decline_of_the_West_Cover.jpg",
+      "summaryLink": "/books/Decline_of_the_West",
+      "id": "Decline_of_the_West"
+    },
+    {
+      "title": "Madness and Civilization",
+      "author": "Michel Foucault",
+      "genre": [
+        "History"
+      ],
+      "image": "/images/Madness_and_Civilization_Cover.jpg"
+    },
+    {
+      "title": "Usury, or Interest",
+      "author": "Jeremiah O'Callaghan",
+      "genre": [
+        "History",
+        "Philosophy",
+        "Economics"
+      ],
+      "image": "/images/Usury_or_Interest_Cover.jpg"
+    },
+    {
+      "title": "Simulacra and Simulation",
+      "author": "Jean Baudrillard",
+      "genre": [
+        "Philosophy"
+      ],
+      "image": "/images/Simulacra_and_Simulation_Cover.jpg",
+      "summaryLink": "/books/Simulacra_and_Simulation",
+      "id": "Simulacra_and_Simulation"
+    },
+    {
+      "title": "Machine Dreams",
+      "author": "Philip Mirowski",
+      "genre": [
+        "Philosophy"
+      ],
+      "image": "/images/Machine_Dreams_Cover.jpg",
+      "summaryLink": "/books/Machine_Dreams",
+      "id": "Machine_Dreams"
+    },
+    {
+      "title": "War in the Age of Intelligent Machines",
+      "author": "Manuel DeLanda",
+      "genre": [
+        "History",
+        "Warfare"
+      ],
+      "image": "/images/War_in_the_Age_of_Intelligent_Machines_Cover.jpg",
+      "summaryLink": "/books/War_in_the_Age_of_Intelligent_Machines",
+      "id": "War_in_the_Age_of_Intelligent_Machines"
+    },
+    {
+      "title": "The Challenge Launch Decision",
+      "author": "Diane Vaughan",
+      "genre": [
+        "History",
+        "Management"
+      ],
+      "image": "/images/The_Challenge_Launch_Decision_Cover.jpg",
+      "summaryLink": "/books/The_Challenge_Launch_Decision",
+      "id": "The_Challenge_Launch_Decision"
+    },
+    {
+      "title": "In Retrospect",
+      "author": "Robert S. McNamara",
+      "genre": [
+        "Biography",
+        "History",
+        "Warfare",
+        "Politics"
+      ],
+      "image": "/images/Retrospect_Cover.jpg",
+      "summaryLink": "/books/Retrospect",
+      "id": "Retrospect"
+    },
+    {
+      "title": "The Collapse of Complex Societies ",
+      "author": "Joseph Tainter",
+      "genre": [
+        "History",
+        "Economics"
+      ],
+      "image": "/images/The_Collapse_of_Complex_Societies_Cover.jpg",
+      "summaryLink": "/books/The_Collapse_of_Complex_Societies",
+      "id": "The_Collapse_of_Complex_Societies"
+    },
+    {
+      "title": "How Life Works",
+      "author": "Phillip Ball",
+      "genre": [
+        "Biology"
+      ],
+      "image": "/images/How_Life_Works_Cover.jpg",
+      "summaryLink": "/books/How_Life_Works",
+      "id": "How_Life_Works"
+    },
+    {
+      "title": "Collapse: The Fall of the Soviet Union",
+      "author": "Vladislav Zubok",
+      "genre": [
+        "History",
+        "Politics"
+      ],
+      "image": "/images/Collapse_The_Fall_of_the_Soviet_Union_Cover.jpg",
+      "summaryLink": "/books/Collapse_The_Fall_of_the_Soviet_Union",
+      "id": "Collapse_The_Fall_of_the_Soviet_Union"
+    },
+    {
+      "title": "The Age of AI",
+      "author": "Henry Kissinger",
+      "genre": [
+        "History",
+        "Technology"
+      ],
+      "image": "/images/The_Age_of_AI_Cover.jpg"
+    },
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Infinite_Jest_Cover.jpg"
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tart",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/The_Secret_History_Cover.jpg"
+    },
+    {
+      "title": "The Closing of the American Mind",
+      "author": "Allan Bloom",
+      "genre": [
+        "History",
+        "Philosophy"
+      ],
+      "image": "/images/The_Closing_of_the_American_Mind_Cover.jpg"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Crime_and_Punishment_Cover.jpg"
+    },
+    {
+      "title": "Fear and Loathing on the Campaign Trail '72",
+      "author": "Hunter S Thompson",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Fear_and_Loathing_on_the_Campaign_Trail_72_Cover.jpg"
+    },
+    {
+      "title": "Hells Angels",
+      "author": "Hunter S Thompson",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Hells_Angels_Cover.jpg"
+    },
+    {
+      "title": "Alanbrooke War Diaries",
+      "author": "Alan Brooke",
+      "genre": [
+        "History",
+        "Warfare"
+      ],
+      "image": "/images/Alanbrooke_War_Diaries_Cover.jpg"
+    },
+    {
+      "title": "There is no Anti-Mimetics Division",
+      "author": "Qntm",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/There_is_no_AntiMimetics_Division_Cover.jpeg"
+    },
+    {
+      "title": "Annihalation",
+      "author": "Michel Houellebecq",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Annihalation_Cover.jpg"
+    },
+    {
+      "title": "Submission",
+      "author": "Michel Houellebecq",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Submission_Cover.jpg"
+    },
+    {
+      "title": "Serotonin",
+      "author": "Michel Houellebecq",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Serotonin_Cover.jpeg"
+    },
+    {
+      "title": "The Map and the Territory",
+      "author": "Michel Houellebecq",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/The_Map_and_the_Territory_Cover.jpg"
+    },
+    {
+      "title": "Atomised",
+      "author": "Michel Houellebecq",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Atomised_Cover.jpeg"
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": [
+        "Business"
+      ],
+      "image": "/images/Zero_to_One_Cover.jpg"
+    },
+    {
+      "title": "Strategy",
+      "author": "B. H. Liddell Hart",
+      "genre": [
+        "History",
+        "Warfare"
+      ],
+      "image": "/images/Strategy_Cover.jpg"
+    },
+    {
+      "title": "Foundations of Corporate Success",
+      "author": "John Kay",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/Foundations_of_Corporate_Success_Cover.jpg"
+    },
+    {
+      "title": "Object-Oriented Systems Analysis: A Model-Driven Approach",
+      "author": "David W. Embley, Barry D. Kurtz, Scott N. Woodfield",
+      "genre": [
+        "Technology",
+        "Software"
+      ],
+      "image": "/images/Object_Oriented_Systems_Analysis_Cover.jpg"
+    },
+    {
+      "title": "Competitive and Corporate Strategy",
+      "author": "Cliff Bowman",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/Competitive_and_Corporate_Strategy_Cover.jpg"
+    },
+    {
+      "title": "Virtual Economies",
+      "author": "Vili Lehdonvirta and Edward Castronova",
+      "genre": [
+        "Economics",
+        "Technology",
+        "Games"
+      ],
+      "image": "/images/Virtual_Economies_Cover.jpg"
+    },
+    {
+      "title": "Kennedy",
+      "author": "Theodore C. Sorensen",
+      "genre": [
+        "Biography",
+        "History",
+        "Politics"
+      ],
+      "image": "/images/Kennedy_Sorensen_Cover.jpg"
+    },
+    {
+      "title": "Fragile Empire",
+      "author": "Ben Judah",
+      "genre": [
+        "History",
+        "Politics"
+      ],
+      "image": "/images/Fragile_Empire_Cover.jpg"
+    },
+    {
+      "title": "The Wealth of Networks",
+      "author": "Yochai Benkler",
+      "genre": [
+        "Technology",
+        "Economics"
+      ],
+      "image": "/images/The_Wealth_of_Networks_Cover.jpg"
+    },
+    {
+      "title": "The Oxford Handbook of Carl Schmitt",
+      "author": "Jens Meierhenrich and Oliver Simons (eds.)",
+      "genre": [
+        "History",
+        "Politics",
+        "Philosophy"
+      ],
+      "image": "/images/The_Oxford_Handbook_of_Carl_Schmitt_Cover.jpg"
+    },
+    {
+      "title": "The Visible Hand",
+      "author": "Alfred D. Chandler Jr.",
+      "genre": [
+        "History",
+        "Economics",
+        "Business"
+      ],
+      "image": "/images/The_Visible_Hand_Cover.jpg"
+    },
+    {
+      "title": "Scale and Scope",
+      "author": "Alfred D. Chandler Jr.",
+      "genre": [
+        "History",
+        "Economics",
+        "Business"
+      ],
+      "image": "/images/Scale_and_Scope_Cover.jpg"
+    },
+    {
+      "title": "The Dynamic Firm",
+      "author": "Alfred D. Chandler Jr., Peter Hagström, and Örjan Sölvell",
+      "genre": [
+        "Business",
+        "Management"
+      ],
+      "image": "/images/The_Dynamic_Firm_Cover.jpg"
+    },
+    {
+      "title": "The Box",
+      "author": "Marc Levinson",
+      "genre": [
+        "History",
+        "Economics"
+      ],
+      "image": "/images/The_Box_Cover.jpg"
+    },
+    {
+      "title": "Bismarck",
+      "author": "Jonathan Steinberg",
+      "genre": [
+        "Biography",
+        "History",
+        "Politics"
+      ],
+      "image": "/images/Bismarck_Cover.jpg"
+    },
+    {
+      "title": "The Opium War",
+      "author": "Julia Lovell",
+      "genre": [
+        "History",
+        "Warfare",
+        "Politics"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "The Complete Robot",
+      "author": "Isaac Asimov",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "genre": [
+        "Fiction",
+        "Literature"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "A Scanner Darkly",
+      "author": "Philip K. Dick",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "The Hustler",
+      "author": "Walter Tevis",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": [
+        "Fiction",
+        "Warfare",
+        "Satire"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Metro 2033",
+      "author": "Dmitry Glukhovsky",
+      "genre": [
+        "Science Fiction",
+        "Post-Apocalyptic"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Metro 2034",
+      "author": "Dmitry Glukhovsky",
+      "genre": [
+        "Science Fiction",
+        "Post-Apocalyptic"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "The Dark Fields",
+      "author": "Alan Glynn",
+      "genre": [
+        "Fiction"
+      ],
+      "image": "/images/The_Dark_Fields_Cover.jpg"
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Foundation and Empire",
+      "author": "Isaac Asimov",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "Second Foundation",
+      "author": "Isaac Asimov",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    },
+    {
+      "title": "The Cyberiad",
+      "author": "Stanislaw Lem",
+      "genre": [
+        "Science Fiction"
+      ],
+      "image": "/images/Placeholder_Book_Cover.svg"
+    }
+  ]
+}
