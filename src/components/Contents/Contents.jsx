@@ -1,14 +1,10 @@
 import React from 'react';
 import styles from './Contents.module.css'
 
-const ContentsComponent = ({ sections, filter }) => {
-  const filteredSections = filter === 'all'
-    ? sections
-    : sections.filter(section => section.category === filter);
-
+const ContentsComponent = ({ sections }) => {
   return (
     <div className={styles.contents}>
-      {filteredSections.map((section) => (
+      {sections.map((section) => (
         <a key={section.id} href={section.url} className={styles.panel}>
           <span className={styles.title}>{section.title}</span>
           <div className={styles.meta}>
