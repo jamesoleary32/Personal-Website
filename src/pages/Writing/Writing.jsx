@@ -20,7 +20,7 @@ const Writing = () => {
             </Helmet>
             <Navigation />
 
-            <ContentsComponent sections={[...sections].reverse()} />
+            <ContentsComponent sections={[...sections].filter(s => s.published !== false).reverse()} />
 
         </div>
     );

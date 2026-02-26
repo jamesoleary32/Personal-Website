@@ -40,7 +40,8 @@
   "scripts": {
     "start": "react-scripts start",
     "sync-books": "node scripts/sync-book-summaries.js",
-    "prebuild": "node scripts/sync-book-summaries.js",
+    "sync-articles": "node scripts/sync-articles.js",
+    "prebuild": "node scripts/sync-book-summaries.js && node scripts/sync-articles.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
