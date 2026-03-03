@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+.adminLink + .adminLink {
+    margin-left: 12px;
+}
+
 .adminLink {
     color: #bbb;
     font-size: 0.75rem;
